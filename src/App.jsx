@@ -1,7 +1,7 @@
 
 import './App.css'
 
-function Hello() {
+function Helloo() {
     return <>
       <div>
         <h1 className='hello'>Hello Niki</h1>
@@ -9,4 +9,4 @@ function Hello() {
     </>
 }
 
-export default Hello
+export default Helloo
